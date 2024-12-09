@@ -1,0 +1,41 @@
+
+# Bill of Materials (BoM) for STM32 Command Parser and Control System
+
+## Main Components
+1. **STM32F401CC microcontroller** 
+   - **Quantity**: 1
+   - **Description**: Main microcontroller for UART, ADC, and GPIO handling.
+
+2. **LM35 Temperature Sensor**
+   - **Quantity**: 1
+   - **Description**: Analog temperature sensor connected to ADC for temperature measurement.
+
+3. **LDR (Light Dependent Resistor)**
+   - **Quantity**: 1
+   - **Description**: Analog sensor for light intensity measurement connected to ADC.
+
+4. **Relay Module**
+   - **Quantity**: 1
+   - **Description**: Solid-state relay for controlling external devices, connected to GPIO.
+
+## Interface Components
+
+1. **Jumper Wires** for connections
+   - **Quantity**: Varies (2-10)
+   - **Description**: To connect peripherals and power supply to the microcontroller.
+
+## Power Supply Components
+1. **5V Power Supply Module**
+   - **Quantity**: 1
+   - **Description**: Provides stable 5V for microcontroller and peripherals.
+
+## 10k Ohm Resistor
+   - **Quantity**: 1
+   - **Description**: Used for voltage division or pull-up/down in digital circuits.
+
+## NPN Transistor (BC547)
+   - **Quantity**: 1
+   - **Description**: Used for switching applications in controlling relays or amplifying signals.
+
+## Tools and Accessories
+1. **Serial Terminal Software** 

@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stm32f401xc.h": "c",
+        "stm32f4xx_hal_adc.h": "c",
+        "type_traits": "c",
+        "stm32f4xx_adc.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "semphr.h": "c",
+        "stm32f4xx_nvic.h": "c",
+        "portable.h": "c",
+        "cmsis_os.h": "c",
+        "queue.h": "c",
+        "lm35.h": "c",
+        "relay.h": "c",
+        "stm32f4xx_gpio.h": "c",
+        "cjson.h": "c"
+    }
+}
