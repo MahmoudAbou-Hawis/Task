@@ -31,7 +31,6 @@ This project implements a modular STM32-based command parser and control system 
   - Compiler: arm-none-eabi-gcc.
 - **Libraries:**
   - cJSON (lightweight JSON parser).
-  - STM32 HAL libraries for GPIO, UART, and ADC.
 - **OS:** Windows, Linux, or macOS.
 
 ---
